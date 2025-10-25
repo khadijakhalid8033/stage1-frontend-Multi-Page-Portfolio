@@ -48,5 +48,5 @@ project/
 
 
 ##  Deployment
-- Hosted on []
-- GitHub Repo: []
+- Hosted on [Github]
+- GitHub Repo: [https://github.com/khadijakhalid8033/stage1-frontend-Multi-Page-Portfolio]
